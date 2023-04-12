@@ -13,3 +13,5 @@ Run these commands:
 
 `node app.js`
 
+docker-compose up -d
+
